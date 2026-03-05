@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/tnnkhoa3006/HAKO-BACKEND.git
